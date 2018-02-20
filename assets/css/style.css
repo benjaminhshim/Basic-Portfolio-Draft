@@ -136,5 +136,11 @@
         height: 75px;
         padding-top: 20px;
         border-top: 10px solid #4aaaa5;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 
+    .social {
+        border-radius: 10px;
     }
